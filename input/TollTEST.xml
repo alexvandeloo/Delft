@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE roadpricing SYSTEM "http://www.matsim.org/files/dtd/roadpricing_v1.dtd">
+
+<roadpricing type="cordon" name="test" >
+	<links>
+		<link id="2" />
+		<link id="5" />
+	</links >
+		<cost start_time= "09:00" end_time= "10:00" amount="10.0" />
+</roadpricing >

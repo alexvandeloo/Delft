@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE roadpricing SYSTEM "http://www.matsim.org/files/dtd/roadpricing_v1.dtd">
+
+<roadpricing type="cordon" name="centrum" >
+	<links>
+		<link id="8137" />
+		<link id="8138" />
+<!--		<link id="7193" />
+		<link id="7194" />
+		<link id="76" />
+		<link id="63" />
+		<link id="5424" />
+		<link id="5886" />
+		<link id="5887" />
+		<link id="5487" />
+		<link id="5324" />
+		<link id="5464" />
+		<link id="5504" />
+		<link id="1958" />
+		<link id="7417" />
+		<link id="1492" />
+		<link id="930" />
+-->
+	</links >
+		<cost start_time= "09:01" end_time= "10:00" amount="1000.0" />
+</roadpricing >

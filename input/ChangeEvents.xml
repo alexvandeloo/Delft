@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<networkChangeEvents xmlns="http://www.matsim.org/files/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.matsim.org/files/dtd http://www.matsim.org/files/dtd/networkChangeEvents.xsd">
+  <networkChangeEvent startTime="17:02:00">
+    <link refId="8137" />
+    <link refId="8138" />
+    <freespeed type="absolute" value="0.0" />
+  </networkChangeEvent>
+</networkChangeEvents>
